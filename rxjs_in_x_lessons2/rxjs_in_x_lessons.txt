@@ -1,0 +1,6 @@
+/*
+https://github.com/rschaniel/rxjs_in_x_lessons
+https://ronnieschaniel.com/tag/rxjs-lessons/
+https://ronnieschaniel.com/typescript/
+*/
+
